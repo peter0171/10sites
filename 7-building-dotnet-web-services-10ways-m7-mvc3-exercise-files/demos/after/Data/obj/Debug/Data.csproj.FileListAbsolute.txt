@@ -1,0 +1,5 @@
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\Data\bin\Debug\Data.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\Data\bin\Debug\Data.pdb
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\Data\obj\Debug\Data.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\Data\obj\Debug\Data.pdb

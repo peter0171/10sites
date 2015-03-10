@@ -1,0 +1,19 @@
+﻿<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx">
+  <edmx:DataServices m:DataServiceVersion="1.0" m:MaxDataServiceVersion="3.0" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+    <Schema Namespace="Data" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+      <EntityType Name="Pun">
+        <Key>
+          <PropertyRef Name="PunID" />
+        </Key>
+        <Property Name="PunID" Type="Edm.Int32" Nullable="false" />
+        <Property Name="Title" Type="Edm.String" />
+        <Property Name="Joke" Type="Edm.String" />
+      </EntityType>
+    </Schema>
+    <Schema Namespace="WebServices.WCFData" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+      <EntityContainer Name="PunContext" m:IsDefaultEntityContainer="true">
+        <EntitySet Name="Puns" EntityType="Data.Pun" />
+      </EntityContainer>
+    </Schema>
+  </edmx:DataServices>
+</edmx:Edmx>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+  <ClientList>
+    <Client>
+      <Firstname></Firstname>
+        <LastName></LastName>
+        <DateOfBirth></DateOfBirth>
+    </Client>
+  </ClientList>
+  <PropetyList>
+    <Protety>
+      <Address></Address>
+      <Value></Value>
+      <OwnershipPercentage></OwnershipPercentage>
+    </Protety>
+  </PropetyList>
+  
+  
+</Application>

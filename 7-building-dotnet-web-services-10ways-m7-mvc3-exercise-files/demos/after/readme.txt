@@ -1,0 +1,1 @@
+This solution requires several packages from NuGet to be installed.  The solution file is configured to automatically download the required packages from NuGet the first time the solution is built if the packages are not present.

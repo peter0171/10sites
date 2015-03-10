@@ -1,0 +1,17 @@
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\WebService.MVC3.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\WebService.MVC3.pdb
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\Data.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\EntityFramework.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.Helpers.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.Mvc.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.Providers.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.Razor.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.WebPages.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\Data.pdb
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\bin\EntityFramework.xml
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\obj\Debug\WebService.MVC3.csprojResolveAssemblyReference.cache
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\obj\Debug\WebService.MVC3.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\WebService.MVC3\obj\Debug\WebService.MVC3.pdb

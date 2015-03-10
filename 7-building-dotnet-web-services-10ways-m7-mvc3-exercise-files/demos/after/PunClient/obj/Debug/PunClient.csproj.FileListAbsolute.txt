@@ -1,0 +1,8 @@
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\bin\Debug\PunClient.exe.config
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\bin\Debug\PunClient.exe
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\bin\Debug\PunClient.pdb
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\obj\Debug\PunClient.csprojResolveAssemblyReference.cache
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\obj\Debug\PunClient.exe
+C:\Users\Chad McCallum\Documents\Camtasia Studio\webservices\module7\demos\after\PunClient\obj\Debug\PunClient.pdb
